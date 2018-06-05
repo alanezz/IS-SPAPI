@@ -16,3 +16,6 @@ You have to compile the code with Maven, changing the paths where the database i
 2) Take a look to the ExampleOpenWeather class into the project.
 3) Change the path for the one where you stored the data.
 4) Then execute the query. Recall that no extra parametrization is needed.
+
+##Online demo
+We have an online demo [here](http://198.199.82.9/query/#/).
