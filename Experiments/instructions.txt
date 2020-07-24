@@ -1,0 +1,19 @@
+Import the Java project of the folder code
+
+Berlin:
+
+1. Go to: 
+  - https://drive.google.com/file/d/19UMYMXmHm5VF_6h2nxZIIfE6BBF-VReE/view 
+  - https://drive.google.com/file/d/17KC94WnAtWvf6w4GvngF72LOoBFDvzRy/view?usp=sharing
+  - https://drive.google.com/file/d/1nR6We3bphxsL3bRdAmQ_QePiOPoLB2Fv/view?usp=sharing
+and download de NT files.
+2. Load those files with JenaTDB
+3. The files in queries-wikidata are modified queries that allow to count the number of API calls. You have to count the variable that is indicated for each part of the query.
+
+
+Wikidata:
+
+1. Go to https://cirojas.github.io/leapfrog-benchmark/
+2. Follow the instruction "Getting the repo and the dataset"
+3. Create the dataset for JenaTDB
+5. The files in queries-wikidata are modified queries of the benchmark that allow to count the number of calls according to a normal execution or optimized.

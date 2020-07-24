@@ -1,5 +1,0 @@
-1. Go to https://cirojas.github.io/leapfrog-benchmark/
-2. Follow the instruction "Getting the repo and the dataset"
-3. Create the dataset for Jena
-4. Import the Java project in the folder code
-5. The files in queries are modified queries of the benchmark that allows to count the number of calls according to a normal execution or optimized.
